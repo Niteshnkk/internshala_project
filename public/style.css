@@ -763,12 +763,14 @@ height: 50px;
     .rectangle{
         width: 52px;
     height: 50px;
+    display: none;
  
     }
     
     .sidebar{
          width: 52px;
         height: 692px;
+        display: none;
        
     }
     .content_header{
