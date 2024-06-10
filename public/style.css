@@ -763,14 +763,14 @@ height: 50px;
     .rectangle{
         width: 52px;
     height: 50px;
-    display: none;
+    
  
     }
     
     .sidebar{
          width: 52px;
         height: 692px;
-        display: none;
+    
        
     }
     .content_header{
@@ -817,6 +817,7 @@ line-height: 15px;
 
 }
 .reactangle-2{
+    display: none;
 
     
    width: 334px;
@@ -828,6 +829,7 @@ left: 190px;
 z-index: 0;  
 }
 .reactangle-2 img{
+    display: none;
    width: 24px;
 height: 24px;
 position: absolute;
